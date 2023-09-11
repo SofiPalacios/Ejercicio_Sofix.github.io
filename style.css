@@ -1,0 +1,17 @@
+body{
+    padding: 8.3rem;
+    text-align: center;
+    background-color: rgb(255, 195, 155);
+    
+    
+}
+
+form .btn btn-primary{
+    position: relative;
+}
+
+form label{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
